@@ -1,0 +1,64 @@
+ body{
+ 
+  background: radial-gradient(circle at center, #ff7e5f, #FFF3B5); /* ไล่สีจากศูนย์กลาง */
+    
+  }
+
+/* Font */
+
+p {
+    font-family: "Kodchasan", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+  }
+
+h3 {
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+  }
+
+.Pittayaporn{
+    font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.BookRecommendations{
+    font-family: "Chonburi", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Font end */
+
+.nav{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffa96f;
+
+  }
+
+.header{
+    background-color: rgb(255, 243, 181);
+  }
+
+.book-column {
+    border: 1px solid #fff4ce; /* สีกรอบ */
+    border-radius: 8px; /* มุมมน */
+    padding: 10px; /* ช่องว่างภายใน */
+    margin-bottom: 20px; /* ช่องว่างระหว่างคอลัมน์ */
+    background-color: #fff4ce; /* สีพื้นหลัง */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* เงา */
+ }
+
+ img{
+    box-shadow: 0 50px 25px rgba(0, 0, 0, 0.1);
+ }
+
+ h3 {
+  text-shadow: 1px 1px 5px rgb(61, 61, 61);
+
+
+ }
